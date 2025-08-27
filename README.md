@@ -22,7 +22,7 @@ The Dashboard provides insights into demographics, salaries, job satisfaction an
 
 ##Tools & Technologies
 - **Power BI Desktop**
-- Data source: *[https://github.com/AlexTheAnalyst/Pow...]*
+- Data source: *[https://github.com/Balesengmahlo-design/D]ta-Professional-Survey/blob/main/Power%20BI%20-%20Final%20Project.xlsx}*
 - Data Transformations with **Power Query**
 
 
